@@ -1,4 +1,4 @@
-import * as THREE from "../programs/three.module.js";
+import * as THREE from "./three.module.js";
 
 class Blit {
     constructor(renderer, customFragment) {

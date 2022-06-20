@@ -1,10 +1,10 @@
-import * as THREE from "./programs/three.module.js";
-import { OrbitControls } from "./programs/OrbitControls.js"; 
-import { OBJLoader } from './programs/OBJLoader.js';
-import { DoubleDepthBuffer } from "./programs/doubleDepthBuffer.js";
-import { Blit } from "./programs/blit.js";
-import { Skybox } from "./programs/skybox.js";
-import { SSRTGlass } from "./programs/ssrtGlass.js";
+import * as THREE from "./three.module.js";
+import { OrbitControls } from "./OrbitControls.js"; 
+import { OBJLoader } from './OBJLoader.js';
+import { DoubleDepthBuffer } from "./doubleDepthBuffer.js";
+import { Blit } from "./blit.js";
+import { Skybox } from "./skybox.js";
+import { SSRTGlass } from "./ssrtGlass.js";
 
 
 

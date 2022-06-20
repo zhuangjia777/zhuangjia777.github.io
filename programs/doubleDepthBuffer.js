@@ -1,5 +1,5 @@
-import * as THREE from "../programs/three.module.js";
-import { Blit } from "../programs/blit.js";
+import * as THREE from "./three.module.js";
+import { Blit } from "./blit.js";
 
 
 class DoubleDepthBuffer {
